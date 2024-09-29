@@ -8,7 +8,7 @@ A calculadora básica em Python foi uma forma de criação baseada na Programaç
 
 ## Sistema os
 
-Foi usando o sistema os, como forma de limpeza de terminal. Lembrando que o tipo dedeclaração da limpeza vai depender do Sistema Operacional da Pessoa.
+Foi usado o sistema os, como forma de limpeza de terminal. Lembrando que o tipo dedeclaração da limpeza vai depender do Sistema Operacional da Pessoa.
 
 ```bash
  import os
